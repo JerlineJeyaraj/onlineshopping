@@ -14,6 +14,7 @@ class product:
     # self.up={}
     # self.dep={}
     if bool(dic):
+#135463q99u0
       
       for index, (key, value) in enumerate(dic.items()):
         self.updat[index+1]=[key,value]
